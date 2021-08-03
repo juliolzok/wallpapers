@@ -1,8 +1,9 @@
 <div align="center">
     <h1>Wallpapers</h1>
     <p>
-        Personally curated wallpapers, sourced mostly from wallhaven.cc<br />
-                     Format: PNG    Resolution: 1920x1080
+        Personally curated wallpapers, sourced mostly from [wallhaven](https://wallhaven.cc)<br />
+        Resolution: 1920x1080<br />
+        Format: PNG
     </p>
 </div>
 
