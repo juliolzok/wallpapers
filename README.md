@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Wallpapers</h1>
     <p>
-        Personally curated wallpapers, sourced mostly from wallhaven.cc
+        Personally curated wallpapers, sourced mostly from wallhaven.cc  
                      Format: PNG   Resolution: 1920x1080
     </p>
 </div>
@@ -16,5 +16,5 @@
 
 ---
 
-1. All credits for these pictures go to their respective creators
-2. **[!]** Wallpapers are added and removed frequently ~
+- All credits for these pictures go to their respective creators
+- **[!]** Wallpapers are added and removed frequently ~
